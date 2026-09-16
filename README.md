@@ -8,8 +8,7 @@ Task:
 **Live:**
 
 Stack:
+
 - TypeScript
 - Vite
 - Sass
-
-
