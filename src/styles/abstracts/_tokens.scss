@@ -33,4 +33,29 @@
   --color-avatar-random-3: #bce3ff;
   --color-avatar-random-4: #ffc6ff;
   --color-avatar-random-5: #e8dff5;
+
+  // Typography: font families
+  --font-family-inter: 'Inter', system-ui, sans-serif;
+  --font-family-roboto: 'Roboto', system-ui, sans-serif;
+
+  // Typography: font weights
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 700;
+  --font-weight-extra-bold: 800;
+
+  // Typography: font sizes
+  --font-size-display-large: 56px;
+  --font-size-display-medium: 36px;
+  --font-size-display-small: 24px;
+  --font-size-headline-large: 32px;
+  --font-size-headline-medium: 24px;
+  --font-size-headline-small: 20px;
+  --font-size-body-large: 18px;
+  --font-size-body-medium: 16px;
+  --font-size-body-small: 14px;
+  --font-size-label-extra-large: 16px;
+  --font-size-label-large: 14px;
+  --font-size-label-medium: 12px;
+  --font-size-label-small: 10px;
 }
